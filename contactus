@@ -3,19 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plus1 App Support</title>
+    <title>+One Support</title>
 </head>
 <body>
-    <h1>Plus1 App Support</h1>
-    <p>Welcome to the support page for Plus1. If you have any questions or need help, please refer to our FAQ or contact us directly.</p>
+    <h1>+One App Support</h1>
+    <p>Welcome to the support page for +One. If you have any questions or need help, please refer to our FAQ or contact us directly.</p>
     
     <h2>Frequently Asked Questions</h2>
     <ul>
-        <li><strong>How do I use the app?</strong> Please refer to our user guide.</li>
-        <li><strong>Who can I contact for support?</strong> Email us at <a href="mailto:support@example.com">support@example.com</a>.</li>
+        <li><strong>Who can I contact for support?</strong> Email us at <a href="mailto:support@example.com">dcaurquhart@gmail.com</a>.</li>
     </ul>
     
     <h2>Contact Support</h2>
-    <p>If you need further assistance, please email us at <a href="mailto:support@example.com">support@example.com</a>.</p>
+    <p>If you need further assistance, please email us at <a href="mailto:support@example.com">dcaurquhart@gmail.com</a>.</p>
 </body>
 </html>
